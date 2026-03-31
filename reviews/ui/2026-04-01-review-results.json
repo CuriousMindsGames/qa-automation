@@ -1,0 +1,156 @@
+{
+  "ts": "2026-03-31T23:15:30.664Z",
+  "screenshots": [
+    "2026-04-01-full-dashboard.png",
+    "2026-04-01-top.png",
+    "2026-04-01-middle.png",
+    "2026-04-01-bottom.png",
+    "2026-04-01-mobile.png",
+    "2026-04-01-tablet.png",
+    "2026-04-01-mcps-tab.png"
+  ],
+  "checks": [
+    {
+      "name": "Page Load",
+      "status": "PASS",
+      "detail": "200 in 1813ms"
+    },
+    {
+      "name": "Load Time",
+      "status": "PASS",
+      "detail": "1813ms"
+    },
+    {
+      "name": "Title",
+      "status": "PASS",
+      "detail": "CuriousMinds — Agent Hub"
+    },
+    {
+      "name": "KPI: Systems 193",
+      "status": "PASS",
+      "detail": "Found"
+    },
+    {
+      "name": "KPI: LOC 37K",
+      "status": "PASS",
+      "detail": "Found"
+    },
+    {
+      "name": "KPI: C++ 545",
+      "status": "PASS",
+      "detail": "Found"
+    },
+    {
+      "name": "KPI: Commits 122",
+      "status": "FAIL",
+      "detail": "Missing"
+    },
+    {
+      "name": "KPI: Jira 244",
+      "status": "FAIL",
+      "detail": "Missing"
+    },
+    {
+      "name": "KPI: MCPs 15/15",
+      "status": "FAIL",
+      "detail": "Missing"
+    },
+    {
+      "name": "KPI: QA Reviewers 9",
+      "status": "PASS",
+      "detail": "Found"
+    },
+    {
+      "name": "Dark Theme",
+      "status": "PASS",
+      "detail": "rgb(8, 9, 15)"
+    },
+    {
+      "name": "Font",
+      "status": "PASS",
+      "detail": "Inter, -apple-system, sans-serif"
+    },
+    {
+      "name": "Section: Day",
+      "status": "WARN",
+      "detail": "Missing"
+    },
+    {
+      "name": "Section: Wave",
+      "status": "PASS",
+      "detail": "Present"
+    },
+    {
+      "name": "Section: Agent",
+      "status": "PASS",
+      "detail": "Present"
+    },
+    {
+      "name": "Section: MCP",
+      "status": "PASS",
+      "detail": "Present"
+    },
+    {
+      "name": "Section: Sprint",
+      "status": "PASS",
+      "detail": "Present"
+    },
+    {
+      "name": "Section: Investment",
+      "status": "WARN",
+      "detail": "Missing"
+    },
+    {
+      "name": "Section: Portfolio",
+      "status": "PASS",
+      "detail": "Present"
+    },
+    {
+      "name": "Current Date",
+      "status": "PASS",
+      "detail": "Date presence"
+    },
+    {
+      "name": "Images",
+      "status": "PASS",
+      "detail": "None broken"
+    },
+    {
+      "name": "Interactive",
+      "status": "PASS",
+      "detail": "6 elements"
+    },
+    {
+      "name": "Mobile Layout",
+      "status": "PASS",
+      "detail": "OK"
+    },
+    {
+      "name": "Mobile Font",
+      "status": "PASS",
+      "detail": "16px"
+    },
+    {
+      "name": "MCPs Tab",
+      "status": "PASS",
+      "detail": "Captured"
+    },
+    {
+      "name": "Console Errors",
+      "status": "PASS",
+      "detail": "None"
+    },
+    {
+      "name": "Network Errors",
+      "status": "PASS",
+      "detail": "None"
+    }
+  ],
+  "consoleErrors": [],
+  "networkErrors": [],
+  "passed": 22,
+  "failed": 3,
+  "warnings": 2,
+  "score": 8,
+  "verdict": "BLOCK"
+}
