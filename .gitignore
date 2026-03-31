@@ -1,0 +1,4 @@
+
+# Secrets — never commit
+.mcp.json
+.claude/settings.json
